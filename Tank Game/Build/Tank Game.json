@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tank Game",
+"dataUrl": "Tank Game.data.unityweb",
+"asmCodeUrl": "Tank Game.asm.code.unityweb",
+"asmMemoryUrl": "Tank Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Tank Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
